@@ -1,0 +1,32 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Script\Brightness.cs">
+    <Files>
+      <File FileName="Assets\Script\DeskScript.cs" Line="1" Column="1" />
+      <File FileName="Assets\Script\Play.cs" Line="1" Column="1" />
+      <File FileName="Assets\Script\RPB.cs" Line="1" Column="1" />
+      <File FileName="Assets\Script\ToScene2.cs" Line="1" Column="1" />
+      <File FileName="Assets\Script\ToScene4.cs" Line="1" Column="1" />
+      <File FileName="Assets\Script\ComputerScript.cs" Line="1" Column="1" />
+      <File FileName="Assets\Script\ToScene3.cs" Line="1" Column="1" />
+      <File FileName="Assets\Script\Menu.cs" Line="1" Column="1" />
+      <File FileName="Assets\Script\Exit.cs" Line="1" Column="1" />
+      <File FileName="Assets\Script\PlayMusic1.cs" Line="1" Column="1" />
+      <File FileName="Assets\Script\FinishButton.cs" Line="1" Column="1" />
+      <File FileName="Assets\Script\FinishButton2.cs" Line="1" Column="1" />
+      <File FileName="Assets\Script\DimScene.cs" Line="1" Column="1" />
+      <File FileName="Assets\Script\FinalDoorScript.cs" Line="1" Column="1" />
+      <File FileName="Assets\Script\FocusObject.cs" Line="1" Column="1" />
+      <File FileName="Assets\Script\GameOver.cs" Line="1" Column="1" />
+      <File FileName="Assets\Script\ToScene6.cs" Line="1" Column="1" />
+      <File FileName="Assets\Script\ToScene7.cs" Line="1" Column="1" />
+      <File FileName="Assets\Script\ToScene8.cs" Line="1" Column="1" />
+      <File FileName="Assets\Script\ToScene9.cs" Line="1" Column="1" />
+      <File FileName="Assets\Script\Brightness.cs" Line="8" Column="12" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
