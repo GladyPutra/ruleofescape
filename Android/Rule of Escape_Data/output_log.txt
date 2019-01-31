@@ -1,0 +1,89 @@
+Initialize engine version: 2017.1.0f3 (472613c02cf7)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GT 630M (ID=0xde9)
+    Vendor:   NVIDIA
+    VRAM:     2000 MB
+    Driver:   22.21.13.8205
+Begin MonoManager ReloadAssembly
+Platform assembly: E:\Documents\Sekolah\Universitas Atmajaya\Semester 6\Technopreneurship\Rules of Escape\Android\Rule of Escape_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading E:\Documents\Sekolah\Universitas Atmajaya\Semester 6\Technopreneurship\Rules of Escape\Android\Rule of Escape_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: E:\Documents\Sekolah\Universitas Atmajaya\Semester 6\Technopreneurship\Rules of Escape\Android\Rule of Escape_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading E:\Documents\Sekolah\Universitas Atmajaya\Semester 6\Technopreneurship\Rules of Escape\Android\Rule of Escape_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: E:\Documents\Sekolah\Universitas Atmajaya\Semester 6\Technopreneurship\Rules of Escape\Android\Rule of Escape_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading E:\Documents\Sekolah\Universitas Atmajaya\Semester 6\Technopreneurship\Rules of Escape\Android\Rule of Escape_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: E:\Documents\Sekolah\Universitas Atmajaya\Semester 6\Technopreneurship\Rules of Escape\Android\Rule of Escape_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading E:\Documents\Sekolah\Universitas Atmajaya\Semester 6\Technopreneurship\Rules of Escape\Android\Rule of Escape_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: E:\Documents\Sekolah\Universitas Atmajaya\Semester 6\Technopreneurship\Rules of Escape\Android\Rule of Escape_Data\Managed\UnityEngine.Timeline.dll (this message is harmless)
+Loading E:\Documents\Sekolah\Universitas Atmajaya\Semester 6\Technopreneurship\Rules of Escape\Android\Rule of Escape_Data\Managed\UnityEngine.Timeline.dll into Unity Child Domain
+Platform assembly: E:\Documents\Sekolah\Universitas Atmajaya\Semester 6\Technopreneurship\Rules of Escape\Android\Rule of Escape_Data\Managed\System.dll (this message is harmless)
+Platform assembly: E:\Documents\Sekolah\Universitas Atmajaya\Semester 6\Technopreneurship\Rules of Escape\Android\Rule of Escape_Data\Managed\System.Core.dll (this message is harmless)
+- Completed reload, in  0.169 seconds
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 165.464639 ms
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: f08 -> priority: 1 
+  Thread -> id: ae4 -> priority: 1 
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 3.468553 ms
+
+Unloading 11 unused Assets to reduce memory usage. Loaded Objects now: 333.
+Total: 0.261506 ms (FindLiveObjects: 0.043515 ms CreateObjectMapping: 0.013957 ms MarkObjects: 0.165032 ms  DeleteObjects: 0.036947 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.924920 ms
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 355.
+Total: 0.237285 ms (FindLiveObjects: 0.032842 ms CreateObjectMapping: 0.015189 ms MarkObjects: 0.173653 ms  DeleteObjects: 0.014368 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.571865 ms
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 355.
+Total: 3.136025 ms (FindLiveObjects: 0.039821 ms CreateObjectMapping: 0.017242 ms MarkObjects: 0.192127 ms  DeleteObjects: 2.886013 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.312411 ms
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 385.
+Total: 0.239337 ms (FindLiveObjects: 0.037768 ms CreateObjectMapping: 0.020115 ms MarkObjects: 0.152305 ms  DeleteObjects: 0.028326 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.362085 ms
+
+Unloading 11 unused Assets to reduce memory usage. Loaded Objects now: 355.
+Total: 0.228253 ms (FindLiveObjects: 0.045979 ms CreateObjectMapping: 0.013136 ms MarkObjects: 0.144916 ms  DeleteObjects: 0.023400 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.312001 ms
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 361.
+Total: 0.233180 ms (FindLiveObjects: 0.026273 ms CreateObjectMapping: 0.014779 ms MarkObjects: 0.173653 ms  DeleteObjects: 0.017652 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.301738 ms
+
+Unloading 10 unused Assets to reduce memory usage. Loaded Objects now: 355.
+Total: 0.315285 ms (FindLiveObjects: 0.024221 ms CreateObjectMapping: 0.014368 ms MarkObjects: 0.203622 ms  DeleteObjects: 0.072252 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.354285 ms
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 361.
+Total: 0.319801 ms (FindLiveObjects: 0.036126 ms CreateObjectMapping: 0.021347 ms MarkObjects: 0.238106 ms  DeleteObjects: 0.022579 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.314464 ms
+
+Unloading 10 unused Assets to reduce memory usage. Loaded Objects now: 355.
+Total: 0.296401 ms (FindLiveObjects: 0.035305 ms CreateObjectMapping: 0.017652 ms MarkObjects: 0.189253 ms  DeleteObjects: 0.053368 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.328422 ms
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 361.
+Total: 0.220043 ms (FindLiveObjects: 0.045979 ms CreateObjectMapping: 0.013547 ms MarkObjects: 0.141221 ms  DeleteObjects: 0.018063 ms)
+
